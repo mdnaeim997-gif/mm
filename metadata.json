@@ -1,0 +1,6 @@
+{
+  "name": "Naeim Visual - Video Editor Portfolio",
+  "description": "Official portfolio of Naeim Visual, video editor specializing in visual storytelling, dynamic pacing, trailers, shorts, and graphic poster designs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
